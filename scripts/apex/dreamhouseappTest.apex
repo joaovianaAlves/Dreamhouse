@@ -1,1 +1,1 @@
-System.debug(House.getRecords());
+System.debug(HouseService.getRecords());
